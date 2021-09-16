@@ -1,20 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Setup Linters
 
-> One paragraph statement about the project.
+> Learning to setup  linters on Microverse bootcamp module 1 week 1
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app.png)
 
 Additional description about the project and its features.
 
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
@@ -25,35 +18,15 @@ Additional description about the project and its features.
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Obote](https://github.com/Obote)
+- Twitter: [@Obote_denis](https://twitter.com/Obote_denis)
+- LinkedIn: [obote-denis-9859a2a3/](https://www.linkedin.com/in/obote-denis-9859a2a3/)
 
 ## 🤝 Contributing
 
